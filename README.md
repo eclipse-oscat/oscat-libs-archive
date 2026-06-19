@@ -47,4 +47,19 @@ For a complete overview and links to all licenses, please see [LICENSE.md](LICEN
 
 ## Historical Releases & Downloads
 
-To provide a convenient landing page and download link for each major release, please refer to the [GitHub Releases page](https://github.com/eclipse-oscat/oscat-libs-archive/releases). You can download specific legacy versions directly from there or explore the respective folders in the repository.
+### OSCAT Basic 3.35
+
+https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel335
+
+### OSCAT Basic 3.36
+
+https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BASIC_LIB/ARCHIVE/rel336
+
+### OSCAT Network 1.10
+
+https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_NETWORK_LIB/Archive/net135
+
+### OSCAT Building 1.00
+
+https://github.com/eclipse-oscat/oscat-libs-archive/tree/main/OSCAT_BUILDING_LIB/Archive/rel100
+

@@ -47,4 +47,4 @@ For a complete overview and links to all licenses, please see [LICENSE.md](LICEN
 
 ## Historical Releases & Downloads
 
-To provide a convenient landing page and download link for each major release, please refer to the [GitHub Releases page](https://github.com/franz-hoepfinger-oscat/oscat-libs-archive/releases). You can download specific legacy versions directly from there or explore the respective folders in the repository.
+To provide a convenient landing page and download link for each major release, please refer to the [GitHub Releases page](https://github.com/eclipse-oscat/oscat-libs-archive/releases). You can download specific legacy versions directly from there or explore the respective folders in the repository.
